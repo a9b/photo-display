@@ -7,7 +7,7 @@ $url = "http://a9b.jp/lobona_camera/";
 define("IMAGE_HOSTNAME",$url);
 
 # 1pageでの表示数
-define("VIEW_LIMIT", 10);
+define("VIEW_LIMIT", 100);
 
 use Slim\Slim;
 //use Slim\Extras\Views\Twig as Twig;
